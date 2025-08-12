@@ -2,3 +2,8 @@ Abacaxi
 Caju
 Melancia
 Laranja
+Maçãs
+Tomate
+Alface
+Cebola
+
