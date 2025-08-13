@@ -2,8 +2,6 @@ Abacaxi
 Caju
 Melancia
 Laranja
-Maçãs
-Tomate
-Alface
-Cebola
-
+Tangerina
+Mamão
+Melão
